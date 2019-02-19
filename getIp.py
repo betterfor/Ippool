@@ -78,5 +78,6 @@ if __name__=='__main__':
 
     proxy_dict = ip.getIp()
     print("使用代理：", proxy_dict)
+
     # 使用代理ip爬取ip，防封ip
     # ip.getIpsProxy(10,proxy_dict)
